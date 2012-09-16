@@ -15,9 +15,8 @@
 ## На основе
 
 http://www.slideshare.net/yandex/minsk-harisov
-
-   http://vitaly.harisov.name/article/independent-blocks.html?yasubbotnik=minsk-2-june
-   http://clubs.ya.ru/bem/replies.xml?item_no=43
+-   http://vitaly.harisov.name/article/independent-blocks.html?yasubbotnik=minsk-2-june
+-   http://clubs.ya.ru/bem/replies.xml?item_no=43
 
 http://www.slideshare.net/yandex/berezhnoi-harisov-ekb
 
@@ -25,6 +24,6 @@ http://www.slideshare.net/yandex/berezhnoi-harisov-ekb
 
 ## Альтернативы
 
-[SMACSS](http://smacss.com/)
-[Object-Oriented CSS](https://github.com/stubbornella/oocss/wiki)
-[DRY CSS](http://www.vanseodesign.com/css/dry-principles/)
+-   [SMACSS](http://smacss.com/)
+-   [Object-Oriented CSS](https://github.com/stubbornella/oocss/wiki)
+-   [DRY CSS](http://www.vanseodesign.com/css/dry-principles/)
